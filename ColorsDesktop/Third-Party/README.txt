@@ -1,0 +1,1 @@
+Copy Newtonsoft.Json.dll in this folder. Add this as a reference in the project.
